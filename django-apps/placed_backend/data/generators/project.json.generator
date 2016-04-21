@@ -1,0 +1,29 @@
+[
+    {
+        'repeat:20': {
+            pk: '{{index(1)}}',
+            model: "project.Project",
+            fields: {
+                title: '{{ lorem(3, "words")}}',
+                company_video: "https://vimeo.com/2287650",
+                visibility: "private",
+                mentors: [1],
+                endorser: [2],
+                creator: 1,
+                desired_start_date: "2015-10-01",
+                desired_end_date: "2015-12-23",
+                brief: '{{ lorem(3, "paragraphs")}}',
+                resources_provided: '{{ lorem(3, "paragraphs")}}',
+                skills_needed: [1,2,3],
+                skills_practised: [1,2,3],
+                module: '{{integer(1, 10)}}',
+                data: ['{{integer(1, 4)}}'],
+                platform: ['{{integer(1, 9)}}'],
+                target_device: ['{{integer(1, 10)}}'],
+                student_needed: '{{integer(1, 10)}}',
+                terms_agreement: '{{ lorem(3, "paragraphs")}}',
+                ip_agreement: '{{ lorem(3, "paragraphs")}}'
+            }
+        }
+    }
+]

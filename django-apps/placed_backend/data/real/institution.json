@@ -1,0 +1,24 @@
+[
+    {
+        "pk": 1,
+        "model": "institution.Institution",
+        "fields": {
+            "name": "University College London",
+            "min_projects": 1,
+            "max_projects": 10,
+            "students_can_submit_projects": false,
+            "student_visible": true,
+            "max_allocations": 5,
+            "template_project_assignment": "mails/project_assignment.html",
+            "template_group_members": "mails/group_members.html",
+            "template_invitation":"mails/email_invitation.html",
+            "template_confirmation":"mails/email_validation.html",
+            "t1_start_date":"2015-10-01",
+            "t2_start_date":"2016-01-01",
+            "t3_start_date":"2016-04-01",
+            "t1_end_date":"2015-12-31",
+            "t2_end_date":"2015-03-30",
+            "t3_end_date":"2015-06-30"
+        }
+    }
+]

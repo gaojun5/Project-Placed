@@ -1,0 +1,65 @@
+[
+    {
+        "pk": 1,
+        "model": "project_platform.ProjectPlatform",
+        "fields": {
+            "name": "Web"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "project_platform.ProjectPlatform",
+        "fields": {
+            "name": "Android"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "project_platform.ProjectPlatform",
+        "fields": {
+            "name": "iOS"
+        }
+    },
+    {
+        "pk": 4,
+        "model": "project_platform.ProjectPlatform",
+        "fields": {
+            "name": "Windows"
+        }
+    },
+    {
+        "pk": 5,
+        "model": "project_platform.ProjectPlatform",
+        "fields": {
+            "name": "Cross Platform"
+        }
+    },
+    {
+        "pk": 6,
+        "model": "project_platform.ProjectPlatform",
+        "fields": {
+            "name": "Wearable"
+        }
+    },
+    {
+        "pk": 7,
+        "model": "project_platform.ProjectPlatform",
+        "fields": {
+            "name": "Games Console"
+        }
+    },
+    {
+        "pk": 8,
+        "model": "project_platform.ProjectPlatform",
+        "fields": {
+            "name": "Games Engines"
+        }
+    },
+    {
+        "pk": 9,
+        "model": "project_platform.ProjectPlatform",
+        "fields": {
+            "name": "Apps"
+        }
+    }
+]

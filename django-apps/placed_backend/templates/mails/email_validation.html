@@ -1,0 +1,9 @@
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+{{ invitation.email }} - {{ invitation.code }} <br>
+<a href="{{frontend_url}}/#/confirm/confirmation/{{ invitation.email }}/code/{{ invitation.code }}">Confirm registration</a>
+</body>
+</html>

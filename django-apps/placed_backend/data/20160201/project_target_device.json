@@ -1,0 +1,72 @@
+[
+    {
+        "pk": 1,
+        "model": "project_target_device.ProjectTargetDevice",
+        "fields": {
+            "name": "Computer"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "project_target_device.ProjectTargetDevice",
+        "fields": {
+            "name": "Phone"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "project_target_device.ProjectTargetDevice",
+        "fields": {
+            "name": "Tablet"
+        }
+    },
+    {
+        "pk": 4,
+        "model": "project_target_device.ProjectTargetDevice",
+        "fields": {
+            "name": "Watch"
+        }
+    },
+    {
+        "pk": 5,
+        "model": "project_target_device.ProjectTargetDevice",
+        "fields": {
+            "name": "Wearable Device"
+        }
+    },
+    {
+        "pk": 6,
+        "model": "project_target_device.ProjectTargetDevice",
+        "fields": {
+            "name": "TV"
+        }
+    },
+    {
+        "pk": 7,
+        "model": "project_target_device.ProjectTargetDevice",
+        "fields": {
+            "name": "Car"
+        }
+    },
+    {
+        "pk": 8,
+        "model": "project_target_device.ProjectTargetDevice",
+        "fields": {
+            "name": "Games console"
+        }
+    },
+    {
+        "pk": 9,
+        "model": "project_target_device.ProjectTargetDevice",
+        "fields": {
+            "name": "embedded device"
+        }
+    },
+    {
+        "pk": 10,
+        "model": "project_target_device.ProjectTargetDevice",
+        "fields": {
+            "name": "Other"
+        }
+    }
+]

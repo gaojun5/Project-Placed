@@ -1,0 +1,19 @@
+[
+    {
+        "pk": 1,
+        "model": "placed_user.PlacedUser",
+        "fields": {
+            "first_name": "Dr. Dean",
+            "last_name": "Mohamedally",
+            "group": 1,
+            "skills": [73,43,51,52],
+            "is_active": true,
+            "email": "D.Mohamedally@cs.ucl.ac.uk",
+            "is_staff": true,
+            "last_login": null,
+            "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+            "institution": "UCL",
+            "date_joined": "2015-08-24T08:17:03Z"
+        }
+    }
+]

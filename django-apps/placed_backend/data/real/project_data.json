@@ -1,0 +1,30 @@
+[
+    {
+        "pk": 1,
+        "model": "project_data.ProjectData",
+        "fields": {
+            "name": "Origin"
+        }
+    },
+    {
+        "pk": 2,
+        "model": "project_data.ProjectData",
+        "fields": {
+            "name": "Hosting"
+        }
+    },
+    {
+        "pk": 3,
+        "model": "project_data.ProjectData",
+        "fields": {
+            "name": "Sensivity"
+        }
+    },
+    {
+        "pk": 4,
+        "model": "project_data.ProjectData",
+        "fields": {
+            "name": "Anonymity"
+        }
+    }
+]

@@ -1,0 +1,2238 @@
+[
+{
+    "fields": {
+        "first_name": "Lindsay",
+        "last_name": "Norman",
+        "group": 3,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "lindsay.norman@geekwagon.info",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 3
+},
+{
+    "fields": {
+        "first_name": "Daphne",
+        "last_name": "Banks",
+        "group": 4,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "daphne.banks@accufarm.org",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 4
+},
+{
+    "fields": {
+        "first_name": "Marla",
+        "last_name": "Mitchell",
+        "group": 6,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "marla.mitchell@tropolis.net",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 5
+},
+{
+    "fields": {
+        "first_name": "Hays",
+        "last_name": "Perez",
+        "group": 3,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "hays.perez@prosure.me",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 6
+},
+{
+    "fields": {
+        "first_name": "Jayne",
+        "last_name": "Rich",
+        "group": 2,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "jayne.rich@comveyer.biz",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 7
+},
+{
+    "fields": {
+        "first_name": "Alice",
+        "last_name": "Cook",
+        "group": 2,
+        "skills": [
+            2,
+            6,
+            8
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "alice.cook@rameon.us",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 8
+},
+{
+    "fields": {
+        "first_name": "Hill",
+        "last_name": "Sheppard",
+        "group": 3,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "hill.sheppard@reversus.biz",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 9
+},
+{
+    "fields": {
+        "first_name": "Maribel",
+        "last_name": "Ratliff",
+        "group": 4,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "maribel.ratliff@cinaster.ca",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 10
+},
+{
+    "fields": {
+        "first_name": "Wanda",
+        "last_name": "Collier",
+        "group": 4,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "wanda.collier@panzent.name",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 11
+},
+{
+    "fields": {
+        "first_name": "Meghan",
+        "last_name": "Pace",
+        "group": 3,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "meghan.pace@xurban.co.uk",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 12
+},
+{
+    "fields": {
+        "first_name": "Angelina",
+        "last_name": "Arnold",
+        "group": 5,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "angelina.arnold@netropic.com",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 13
+},
+{
+    "fields": {
+        "first_name": "Douglas",
+        "last_name": "Pearson",
+        "group": 4,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "douglas.pearson@orbixtar.tv",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 14
+},
+{
+    "fields": {
+        "first_name": "Jaime",
+        "last_name": "Schultz",
+        "group": 3,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "jaime.schultz@zolavo.info",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 15
+},
+{
+    "fields": {
+        "first_name": "Randall",
+        "last_name": "Vance",
+        "group": 6,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "randall.vance@lyria.org",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 16
+},
+{
+    "fields": {
+        "first_name": "Gale",
+        "last_name": "Ford",
+        "group": 4,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "gale.ford@dymi.net",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 17
+},
+{
+    "fields": {
+        "first_name": "Suarez",
+        "last_name": "Parks",
+        "group": 3,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "suarez.parks@envire.me",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 18
+},
+{
+    "fields": {
+        "first_name": "Weeks",
+        "last_name": "Oneal",
+        "group": 4,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "weeks.oneal@hivedom.biz",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 19
+},
+{
+    "fields": {
+        "first_name": "Jackie",
+        "last_name": "George",
+        "group": 5,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "jackie.george@entality.us",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 20
+},
+{
+    "fields": {
+        "first_name": "Snyder",
+        "last_name": "Mercer",
+        "group": 3,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "snyder.mercer@dogspa.biz",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 21
+},
+{
+    "fields": {
+        "first_name": "Hines",
+        "last_name": "Roach",
+        "group": 6,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "hines.roach@asimiline.ca",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 22
+},
+{
+    "fields": {
+        "first_name": "Thompson",
+        "last_name": "Cardenas",
+        "group": 2,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "thompson.cardenas@zillatide.name",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 23
+},
+{
+    "fields": {
+        "first_name": "Phoebe",
+        "last_name": "Serrano",
+        "group": 6,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "phoebe.serrano@trasola.co.uk",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 24
+},
+{
+    "fields": {
+        "first_name": "Sally",
+        "last_name": "Rowe",
+        "group": 6,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "sally.rowe@architax.com",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 25
+},
+{
+    "fields": {
+        "first_name": "Jeanne",
+        "last_name": "Mcpherson",
+        "group": 3,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "jeanne.mcpherson@ceprene.tv",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 26
+},
+{
+    "fields": {
+        "first_name": "Bonita",
+        "last_name": "Hampton",
+        "group": 4,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "bonita.hampton@infotrips.info",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 27
+},
+{
+    "fields": {
+        "first_name": "Raymond",
+        "last_name": "Jackson",
+        "group": 3,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "raymond.jackson@netur.org",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 28
+},
+{
+    "fields": {
+        "first_name": "Angelica",
+        "last_name": "Galloway",
+        "group": 4,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "angelica.galloway@corporana.net",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 29
+},
+{
+    "fields": {
+        "first_name": "Craig",
+        "last_name": "Miles",
+        "group": 4,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "craig.miles@xeronk.me",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 30
+},
+{
+    "fields": {
+        "first_name": "Juanita",
+        "last_name": "Hartman",
+        "group": 5,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "juanita.hartman@zillactic.biz",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 31
+},
+{
+    "fields": {
+        "first_name": "Martina",
+        "last_name": "England",
+        "group": 3,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "martina.england@imaginart.us",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 32
+},
+{
+    "fields": {
+        "first_name": "Moss",
+        "last_name": "Sosa",
+        "group": 5,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "moss.sosa@velity.biz",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 33
+},
+{
+    "fields": {
+        "first_name": "Arlene",
+        "last_name": "Frye",
+        "group": 4,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "arlene.frye@coash.ca",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 34
+},
+{
+    "fields": {
+        "first_name": "Chang",
+        "last_name": "Kim",
+        "group": 2,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "chang.kim@eventex.name",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 35
+},
+{
+    "fields": {
+        "first_name": "Ward",
+        "last_name": "Lane",
+        "group": 4,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "ward.lane@dogtown.co.uk",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 36
+},
+{
+    "fields": {
+        "first_name": "Solis",
+        "last_name": "Herrera",
+        "group": 3,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "solis.herrera@dyno.com",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 37
+},
+{
+    "fields": {
+        "first_name": "West",
+        "last_name": "Fowler",
+        "group": 2,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "west.fowler@extro.tv",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 38
+},
+{
+    "fields": {
+        "first_name": "Dalton",
+        "last_name": "Dawson",
+        "group": 6,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "dalton.dawson@exoplode.info",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 39
+},
+{
+    "fields": {
+        "first_name": "Lesley",
+        "last_name": "Mcmillan",
+        "group": 6,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "lesley.mcmillan@candecor.org",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 40
+},
+{
+    "fields": {
+        "first_name": "Madge",
+        "last_name": "Hughes",
+        "group": 2,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "madge.hughes@myopium.net",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 41
+},
+{
+    "fields": {
+        "first_name": "Patel",
+        "last_name": "Fisher",
+        "group": 5,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "patel.fisher@zogak.me",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 42
+},
+{
+    "fields": {
+        "first_name": "Carrie",
+        "last_name": "Page",
+        "group": 3,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "carrie.page@perkle.biz",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 43
+},
+{
+    "fields": {
+        "first_name": "Ines",
+        "last_name": "Jenkins",
+        "group": 5,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "ines.jenkins@inrt.us",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 44
+},
+{
+    "fields": {
+        "first_name": "Katie",
+        "last_name": "Stevens",
+        "group": 5,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "katie.stevens@hinway.biz",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 45
+},
+{
+    "fields": {
+        "first_name": "Mary",
+        "last_name": "Gentry",
+        "group": 6,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "mary.gentry@gaptec.ca",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 46
+},
+{
+    "fields": {
+        "first_name": "Sheryl",
+        "last_name": "Nguyen",
+        "group": 4,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "sheryl.nguyen@comvoy.name",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 47
+},
+{
+    "fields": {
+        "first_name": "Sampson",
+        "last_name": "Lester",
+        "group": 2,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "sampson.lester@norsup.co.uk",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 48
+},
+{
+    "fields": {
+        "first_name": "Hardy",
+        "last_name": "Lynch",
+        "group": 2,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "hardy.lynch@suretech.com",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 49
+},
+{
+    "fields": {
+        "first_name": "Guerra",
+        "last_name": "Monroe",
+        "group": 5,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "guerra.monroe@anocha.tv",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 50
+},
+{
+    "fields": {
+        "first_name": "Mercado",
+        "last_name": "Whitehead",
+        "group": 4,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "mercado.whitehead@recrisys.info",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 51
+},
+{
+    "fields": {
+        "first_name": "Gould",
+        "last_name": "Sanchez",
+        "group": 5,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "gould.sanchez@quarex.org",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 52
+},
+{
+    "fields": {
+        "first_name": "Rojas",
+        "last_name": "Garza",
+        "group": 3,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "rojas.garza@qaboos.net",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 53
+},
+{
+    "fields": {
+        "first_name": "Floyd",
+        "last_name": "Soto",
+        "group": 4,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "floyd.soto@opticom.me",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 54
+},
+{
+    "fields": {
+        "first_name": "Armstrong",
+        "last_name": "Bradshaw",
+        "group": 4,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "armstrong.bradshaw@imperium.biz",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 55
+},
+{
+    "fields": {
+        "first_name": "Blankenship",
+        "last_name": "Quinn",
+        "group": 3,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "blankenship.quinn@kinetica.us",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 56
+},
+{
+    "fields": {
+        "first_name": "Lewis",
+        "last_name": "Tyler",
+        "group": 4,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "lewis.tyler@gogol.biz",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 57
+},
+{
+    "fields": {
+        "first_name": "Anne",
+        "last_name": "Griffith",
+        "group": 3,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "anne.griffith@permadyne.ca",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 58
+},
+{
+    "fields": {
+        "first_name": "Fletcher",
+        "last_name": "Bailey",
+        "group": 3,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "fletcher.bailey@voratak.name",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 59
+},
+{
+    "fields": {
+        "first_name": "Miranda",
+        "last_name": "Melendez",
+        "group": 3,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "miranda.melendez@squish.co.uk",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 60
+},
+{
+    "fields": {
+        "first_name": "Consuelo",
+        "last_name": "Fitzpatrick",
+        "group": 3,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "consuelo.fitzpatrick@overplex.com",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 61
+},
+{
+    "fields": {
+        "first_name": "Cindy",
+        "last_name": "Holland",
+        "group": 5,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "cindy.holland@urbanshee.tv",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 62
+},
+{
+    "fields": {
+        "first_name": "Valarie",
+        "last_name": "Rhodes",
+        "group": 2,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "valarie.rhodes@kidstock.info",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 63
+},
+{
+    "fields": {
+        "first_name": "Pat",
+        "last_name": "Cline",
+        "group": 2,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "pat.cline@stelaecor.org",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 64
+},
+{
+    "fields": {
+        "first_name": "Page",
+        "last_name": "Irwin",
+        "group": 3,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "page.irwin@inventure.net",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 65
+},
+{
+    "fields": {
+        "first_name": "Clark",
+        "last_name": "Huffman",
+        "group": 4,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "clark.huffman@unia.me",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 66
+},
+{
+    "fields": {
+        "first_name": "Ballard",
+        "last_name": "Bonner",
+        "group": 3,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "ballard.bonner@comtrak.biz",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 67
+},
+{
+    "fields": {
+        "first_name": "Jimmie",
+        "last_name": "Mendoza",
+        "group": 5,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "jimmie.mendoza@terascape.us",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 68
+},
+{
+    "fields": {
+        "first_name": "Prince",
+        "last_name": "Morales",
+        "group": 3,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "prince.morales@ginkogene.biz",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 69
+},
+{
+    "fields": {
+        "first_name": "Lawrence",
+        "last_name": "Guthrie",
+        "group": 4,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "lawrence.guthrie@wazzu.ca",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 70
+},
+{
+    "fields": {
+        "first_name": "Alvarado",
+        "last_name": "Chavez",
+        "group": 3,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "alvarado.chavez@insectus.name",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 71
+},
+{
+    "fields": {
+        "first_name": "Sasha",
+        "last_name": "Glenn",
+        "group": 4,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "sasha.glenn@enervate.co.uk",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 72
+},
+{
+    "fields": {
+        "first_name": "Woods",
+        "last_name": "Davis",
+        "group": 4,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "woods.davis@buzzness.com",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 73
+},
+{
+    "fields": {
+        "first_name": "Irene",
+        "last_name": "Weber",
+        "group": 3,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "irene.weber@nspire.tv",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 74
+},
+{
+    "fields": {
+        "first_name": "Singleton",
+        "last_name": "Britt",
+        "group": 3,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "singleton.britt@jasper.info",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 75
+},
+{
+    "fields": {
+        "first_name": "Coffey",
+        "last_name": "Rodriguez",
+        "group": 2,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "coffey.rodriguez@menbrain.org",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 76
+},
+{
+    "fields": {
+        "first_name": "Buckner",
+        "last_name": "Morse",
+        "group": 6,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "buckner.morse@combogene.net",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 77
+},
+{
+    "fields": {
+        "first_name": "Stacy",
+        "last_name": "Klein",
+        "group": 5,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "stacy.klein@biolive.me",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 78
+},
+{
+    "fields": {
+        "first_name": "Curtis",
+        "last_name": "Hogan",
+        "group": 4,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "curtis.hogan@bristo.biz",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 79
+},
+{
+    "fields": {
+        "first_name": "Ingram",
+        "last_name": "Leon",
+        "group": 6,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "ingram.leon@gink.us",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 80
+},
+{
+    "fields": {
+        "first_name": "Knowles",
+        "last_name": "Mathis",
+        "group": 4,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "knowles.mathis@quonk.biz",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 81
+},
+{
+    "fields": {
+        "first_name": "Krista",
+        "last_name": "Boone",
+        "group": 3,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "krista.boone@zillidium.ca",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 82
+},
+{
+    "fields": {
+        "first_name": "Edwards",
+        "last_name": "Byers",
+        "group": 2,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "edwards.byers@aquoavo.name",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 83
+},
+{
+    "fields": {
+        "first_name": "Dotson",
+        "last_name": "Mendez",
+        "group": 2,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "dotson.mendez@isotrack.co.uk",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 84
+},
+{
+    "fields": {
+        "first_name": "Klein",
+        "last_name": "Gordon",
+        "group": 3,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "klein.gordon@centrexin.com",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 85
+},
+{
+    "fields": {
+        "first_name": "Pratt",
+        "last_name": "Charles",
+        "group": 2,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "pratt.charles@tropoli.tv",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 86
+},
+{
+    "fields": {
+        "first_name": "Hallie",
+        "last_name": "Gaines",
+        "group": 4,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "hallie.gaines@idetica.info",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 87
+},
+{
+    "fields": {
+        "first_name": "Wilda",
+        "last_name": "Dunlap",
+        "group": 6,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "wilda.dunlap@kidgrease.org",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 88
+},
+{
+    "fields": {
+        "first_name": "Elvia",
+        "last_name": "Mayer",
+        "group": 4,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "elvia.mayer@suremax.net",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 89
+},
+{
+    "fields": {
+        "first_name": "Rosanne",
+        "last_name": "Pugh",
+        "group": 4,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "rosanne.pugh@bleendot.me",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 90
+},
+{
+    "fields": {
+        "first_name": "Mathews",
+        "last_name": "Glass",
+        "group": 4,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "mathews.glass@datagen.biz",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 91
+},
+{
+    "fields": {
+        "first_name": "Gregory",
+        "last_name": "Thornton",
+        "group": 2,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "gregory.thornton@exozent.us",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 92
+},
+{
+    "fields": {
+        "first_name": "Hope",
+        "last_name": "Finch",
+        "group": 4,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "hope.finch@momentia.biz",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 93
+},
+{
+    "fields": {
+        "first_name": "Eve",
+        "last_name": "Clemons",
+        "group": 2,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "eve.clemons@geoform.ca",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 94
+},
+{
+    "fields": {
+        "first_name": "Willis",
+        "last_name": "Dickson",
+        "group": 4,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "willis.dickson@earbang.name",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 95
+},
+{
+    "fields": {
+        "first_name": "Shelby",
+        "last_name": "Buckner",
+        "group": 2,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "shelby.buckner@talae.co.uk",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 96
+},
+{
+    "fields": {
+        "first_name": "Michael",
+        "last_name": "Sears",
+        "group": 3,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "michael.sears@gracker.com",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 97
+},
+{
+    "fields": {
+        "first_name": "Carrillo",
+        "last_name": "Knapp",
+        "group": 2,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "carrillo.knapp@isis.tv",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 98
+},
+{
+    "fields": {
+        "first_name": "Earline",
+        "last_name": "Warner",
+        "group": 2,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "earline.warner@spherix.info",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 99
+},
+{
+    "fields": {
+        "first_name": "Mullen",
+        "last_name": "Zamora",
+        "group": 4,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "mullen.zamora@twiggery.org",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 100
+},
+{
+    "fields": {
+        "first_name": "Adriana",
+        "last_name": "Puckett",
+        "group": 4,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "adriana.puckett@portalis.net",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 101
+},
+{
+    "fields": {
+        "first_name": "Nadia",
+        "last_name": "Lynn",
+        "group": 4,
+        "skills": [
+            1,
+            3,
+            5
+        ],
+        "is_active": true,
+        "institution": "UCL",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "nadia.lynn@rocklogic.me",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 102
+},
+{
+    "fields": {
+        "first_name": "I\u00f1aky",
+        "last_name": "Berzal Company",
+        "group": 4,
+        "skills": [],
+        "is_active": true,
+        "institution": "Iberzal",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "iberzal2@iberzal.com",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 103
+},
+{
+    "fields": {
+        "first_name": "I\u00f1aky",
+        "last_name": "Berzal Support",
+        "group": 2,
+        "skills": [],
+        "is_active": true,
+        "institution": "Iberzal",
+        "course": null,
+        "is_staff": false,
+        "last_login": null,
+        "password": "pbkdf2_sha256$20000$8PHESb2kfHD4$I2cMmYKI316S3oNYKwCZby6TQb+TNMCcP4M8ExdyEso=",
+        "email": "iberzal3@iberzal.com",
+        "date_joined": "2015-08-24T08:17:03Z"
+    },
+    "model": "placed_user.placeduser",
+    "pk": 104
+}
+]

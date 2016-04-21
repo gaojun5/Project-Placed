@@ -1,0 +1,14 @@
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+The project '{{ project.title }}' for {{ project.company.name }} has assigned to the following students:
+<ul>
+    {% for student in project.student  %}
+        <li>{{ student.first_name }} {{ student.last_name }} - {{ student.email }} </li>
+    {% endfor %}
+</ul>
+Please, contact with UCL to begin project
+</body>
+</html>

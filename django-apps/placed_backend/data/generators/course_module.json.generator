@@ -1,0 +1,23 @@
+[
+    {
+        'repeat:10': {
+            pk: '{{index(1)}}',
+            model: "course_module.CourseModule",
+            fields: {
+                course: '{{integer(1,10)}}'
+                name: function(tags, parent){
+                    return "Module " + this.course +"-"+parent.pk;
+                },
+                project_coordinator: 1,
+                project_scope: '{{ lorem(3, "paragraphs")}}',
+                students_per_project: '{{integer(1,10)}}',
+                Timeline: '{{ lorem(3, "paragraphs")}}',
+                skills: [1, 2, 3, 4, 5, 6, 8, 9, 10],
+                resources: '{{ lorem(3, "paragraphs")}}',
+                other: '{{ lorem(3, "paragraphs")}}',
+                agreements: '{{ lorem(3, "paragraphs")}}',
+                exemplar_project_proposal: '{{integer(1,10)}}',
+            }
+        }
+    }
+]

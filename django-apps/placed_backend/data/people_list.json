@@ -1,0 +1,172 @@
+[
+  {
+    "pk": 1,
+    "model": "people_list.PeopleList",
+    "fields": {
+      "name": "List 1",
+      "group": 2,
+      "course_wide_list": true,
+      "project_proposal": true,
+      "project_assignment": false,
+      "projects_per_year": 1,
+      "projects_per_1st_term": 2,
+      "projects_per_2nd_term": 2,
+      "projects_per_3rd_term": 2,
+      "project_visibility": false,
+      "module": 10
+    }
+  },
+  {
+    "pk": 2,
+    "model": "people_list.PeopleList",
+    "fields": {
+      "name": "List 2",
+      "group": 3,
+      "course_wide_list": false,
+      "project_proposal": true,
+      "project_assignment": false,
+      "projects_per_year": 2,
+      "projects_per_1st_term": 2,
+      "projects_per_2nd_term": 2,
+      "projects_per_3rd_term": 2,
+      "project_visibility": true,
+      "module": 6
+    }
+  },
+  {
+    "pk": 3,
+    "model": "people_list.PeopleList",
+    "fields": {
+      "name": "List 3",
+      "group": 4,
+      "course_wide_list": true,
+      "project_proposal": false,
+      "project_assignment": false,
+      "projects_per_year": 2,
+      "projects_per_1st_term": 2,
+      "projects_per_2nd_term": 2,
+      "projects_per_3rd_term": 2,
+      "project_visibility": false,
+      "module": 4
+    }
+  },
+  {
+    "pk": 4,
+    "model": "people_list.PeopleList",
+    "fields": {
+      "name": "List 4",
+      "group": 3,
+      "course_wide_list": true,
+      "project_proposal": true,
+      "project_assignment": false,
+      "projects_per_year": 2,
+      "projects_per_1st_term": 2,
+      "projects_per_2nd_term": 2,
+      "projects_per_3rd_term": 2,
+      "project_visibility": true,
+      "module": 6
+    }
+  },
+  {
+    "pk": 5,
+    "model": "people_list.PeopleList",
+    "fields": {
+      "name": "List 5",
+      "group": 4,
+      "course_wide_list": false,
+      "project_proposal": false,
+      "project_assignment": false,
+      "projects_per_year": 3,
+      "projects_per_1st_term": 2,
+      "projects_per_2nd_term": 2,
+      "projects_per_3rd_term": 2,
+      "project_visibility": true,
+      "module": 7
+    }
+  },
+  {
+    "pk": 6,
+    "model": "people_list.PeopleList",
+    "fields": {
+      "name": "List 6",
+      "group": 2,
+      "course_wide_list": false,
+      "project_proposal": false,
+      "project_assignment": false,
+      "projects_per_year": 2,
+      "projects_per_1st_term": 2,
+      "projects_per_2nd_term": 2,
+      "projects_per_3rd_term": 2,
+      "project_visibility": false,
+      "module": 5
+    }
+  },
+  {
+    "pk": 7,
+    "model": "people_list.PeopleList",
+    "fields": {
+      "name": "List 7 Company",
+      "group": 4,
+      "course_wide_list": false,
+      "project_proposal": false,
+      "project_assignment": false,
+      "projects_per_year": 1,
+      "projects_per_1st_term": 2,
+      "projects_per_2nd_term": 2,
+      "projects_per_3rd_term": 2,
+      "project_visibility": false,
+      "module": 5
+    }
+  },
+  {
+    "pk": 8,
+    "model": "people_list.PeopleList",
+    "fields": {
+      "name": "List 8 Students",
+      "group": 3,
+      "course_wide_list": true,
+      "project_proposal": false,
+      "project_assignment": false,
+      "projects_per_year": 3,
+      "projects_per_1st_term": 2,
+      "projects_per_2nd_term": 2,
+      "projects_per_3rd_term": 2,
+      "project_visibility": false,
+      "module": 2
+    }
+  },
+  {
+    "pk": 9,
+    "model": "people_list.PeopleList",
+    "fields": {
+      "name": "List 9 Endorser",
+      "group": 5,
+      "course_wide_list": false,
+      "project_proposal": true,
+      "project_assignment": false,
+      "projects_per_year": 2,
+      "projects_per_1st_term": 2,
+      "projects_per_2nd_term": 2,
+      "projects_per_3rd_term": 2,
+      "project_visibility": false,
+      "module": 1
+    }
+  },
+  {
+    "pk": 10,
+    "model": "people_list.PeopleList",
+    "fields": {
+      "name": "List 10 Mentor",
+      "group": 6,
+      "course_wide_list": true,
+      "project_proposal": true,
+      "project_assignment": false,
+      "projects_per_year": 3,
+      "projects_per_1st_term": 2,
+      "projects_per_2nd_term": 2,
+      "projects_per_3rd_term": 2,
+      "project_visibility": false,
+      "module": 9
+    }
+  }
+]

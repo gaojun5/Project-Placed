@@ -1,0 +1,7 @@
+pk,model,fields
+1,course.Course,"{u'name': u'G400', u'website_link': u'http://www.cs.ucl.ac.uk/degrees/bsc_computer_science/'}"
+2,course.Course,"{u'name': u'G402', u'website_link': u'http://www.cs.ucl.ac.uk/degrees/meng_computer_science/'}"
+3,course.Course,"{u'name': u'G430', u'website_link': u'http://www.cs.ucl.ac.uk/degrees/meng_mathematical_computation/'}"
+4,course.Course,"{u'name': u'MSC Financial Computing', u'website_link': u'http://www.cs.ucl.ac.uk/degrees/msc_comp_fin/'}"
+5,course.Course,"{u'name': u'MSc CS', u'website_link': u'http://www.cs.ucl.ac.uk/degrees/msc_computer_science/'}"
+6,course.Course,"{u'name': u'MSc SSE', u'website_link': u'http://www.cs.ucl.ac.uk/degrees/msc_sse/'}"

@@ -1,0 +1,298 @@
+[
+  {
+        "pk": 1,
+        "model": "course_module.CourseModule",
+        "fields": {
+            "name": "COMP103P",
+            "skills": [15,22,10,32,19,25,18,9,14,8],
+            "Timeline": "",
+            "project_coordinator_id": 501,
+            "project_scope": "This module provides a thorough introduction to object-oriented (OO) programming and mobile application development. The first part of the module uses Java to give a grounding in key object-oriented concepts such as class design, inheritance, dynamic binding and interfaces. Material is also included on the implementation of core data structures such as lists, trees and hash tables, and on key development tools and practices.\nThe second part of the module focuses on applying the principles of OO programming in the development of apps via learning-by-doing and problem based learning (PBL) approaches. Several introductions to popular mobile and cloud/web service platforms are included, with continued emphasis on the OO approach to software development. User interface (UI) design and implementation is also introduced.\n\nThis is an intensely practical module and full student engagement outside of lectures and in lab classes is critical to successful completion of the module. To ensure that the process of designing and implementing mobile and cloud applications is fully understood, the module requires students to undertake a major group project where they must work with an external client to develop and deliver a working application. This takes students through all the stages of a software development project, applying the concepts taught via lectures and online material. Outcomes in addition to the software deliverable include real-world client engagement, team management and project documentation deliverables.\n\nThe project clients come from a wide range of backgrounds, including companies of all sizes, the NHS, academic organisations and charities. Each client defines an application that they have a real need for and will put into use. A successful project will not only deliver a working application but also have it ready either for distribution via an app store at their client\u2019s request or for handover as research materials. The interaction with clients to develop software meeting real-world needs is a unique and defining characteristic of this module, and provides students with a thorough introduction to the processes and challenges involved.",
+            "students_per_project": 3,
+            "other": "Object Oriented Programming",
+            "agreements": "",
+            "course_id": 1,
+            "resources": ""
+        }
+    },
+  {
+    "pk": 2,
+    "model": "course_module.CourseModule",
+    "fields": {
+      "name": "Module 1-2",
+      "project_coordinator": 1,
+      "project_scope": "Amet reprehenderit cillum amet proident cillum amet deserunt ad nulla consequat labore aliqua fugiat duis. Dolor ut tempor enim fugiat id pariatur. Ad irure consequat ut nisi voluptate adipisicing est non eu in proident cupidatat non. Culpa minim qui sunt et amet ea aute nulla. Excepteur ad in voluptate nisi pariatur velit excepteur velit do ut incididunt elit reprehenderit qui. Esse veniam laborum cillum elit.\n\nQuis officia et tempor sunt sit et laborum amet qui in. Culpa amet labore magna minim Lorem est anim ad pariatur nisi cupidatat culpa exercitation. Reprehenderit anim ea adipisicing non veniam magna eu laborum mollit sunt ex amet dolore. Occaecat dolor ut irure incididunt cillum magna. Velit et nostrud nulla velit adipisicing non est ad irure eiusmod veniam velit labore.\n\nLorem dolor amet esse exercitation mollit est excepteur aute tempor nulla aute fugiat nostrud et. Adipisicing veniam dolor aliqua eiusmod amet excepteur dolore incididunt reprehenderit aliqua adipisicing magna. Excepteur incididunt qui anim excepteur cillum deserunt laborum exercitation. Elit cupidatat consequat officia magna officia ut magna nostrud nostrud commodo. Adipisicing do occaecat fugiat eu deserunt sit quis culpa adipisicing magna occaecat.",
+      "students_per_project": 1,
+      "Timeline": "Et pariatur voluptate nostrud ipsum enim. Laborum culpa id velit fugiat non elit et. Veniam anim veniam culpa Lorem. Ea deserunt qui cupidatat non incididunt ea.\n\nCommodo consequat proident ad exercitation laborum et velit proident nulla eiusmod. Veniam et sint velit occaecat amet id. Incididunt velit cupidatat reprehenderit cupidatat aute deserunt. Sunt eiusmod sint duis et eu ut pariatur minim pariatur dolor est quis.\n\nSint magna labore eiusmod ex culpa. Culpa cillum aute cillum cillum aute in do pariatur amet qui Lorem laborum quis. Est adipisicing enim quis quis laborum. Esse ea deserunt anim laboris esse voluptate. Sunt ea labore duis ad occaecat. Proident mollit pariatur nulla incididunt sint consequat fugiat anim ipsum incididunt.",
+      "link": "http://ucl.ac.uk",
+      "skills": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10
+      ],
+      "resources": "Aliqua alet meu",
+      "other": "Deserunt enim proident do voluptate culpa Lorem est fugiat non deserunt officia. Aute sunt fugiat ullamco laboris consequat anim commodo sit occaecat cupidatat amet consectetur elit eiusmod. Deserunt adipisicing non nisi nulla culpa velit ut aliqua aliquip in.\n\nEx mollit minim excepteur consequat ipsum non pariatur cillum ut. Elit magna occaecat eu anim exercitation id pariatur ipsum pariatur ad deserunt. Proident incididunt eu cupidatat nulla non ad id sint.\n\nDolor irure ex sit deserunt exercitation occaecat est eu ut amet laboris voluptate. Incididunt cupidatat cupidatat ea aute consectetur incididunt laborum quis ad dolor et fugiat amet. Ex fugiat amet officia fugiat sint. Commodo Lorem aliqua do sint veniam sint qui aliquip commodo sunt reprehenderit cillum. Veniam reprehenderit veniam dolore duis ut aute. Nulla et in sunt dolor ullamco. Ad veniam velit irure esse tempor ea ut enim pariatur incididunt ex est eiusmod.",
+      "agreements": "In est occaecat ex esse amet fugiat amet. Id reprehenderit proident non irure ad aute pariatur ad consectetur. Commodo enim anim consectetur occaecat occaecat sunt proident ad laboris laborum. Voluptate labore velit exercitation ea enim cillum cillum. Amet aliqua sit anim labore sint sunt labore pariatur excepteur anim. Aute culpa esse duis nostrud velit veniam qui occaecat mollit duis ut.\n\nIncididunt duis laborum tempor reprehenderit nostrud qui sit. Consequat cupidatat consequat consectetur veniam minim do. Nulla commodo elit ex labore sunt elit anim qui. Cupidatat dolore ad magna et. Sint anim ex irure excepteur anim dolore. Eiusmod ullamco ullamco incididunt aliquip minim ea consequat nisi est occaecat commodo ipsum ea aute.\n\nNon cupidatat enim labore ullamco in duis. Incididunt sunt nostrud consequat voluptate voluptate excepteur elit nostrud nisi irure dolor ea sint. Deserunt nulla aliqua excepteur pariatur aute fugiat magna ea consequat. Est tempor elit ex officia nisi anim ullamco occaecat ut. Sint non aliquip nostrud officia incididunt nulla voluptate non et aliquip aliqua consequat velit labore.",
+      "exemplar_project_proposal": 6,
+      "course": 1
+    }
+  },
+  {
+    "pk": 3,
+    "model": "course_module.CourseModule",
+    "fields": {
+      "name": "Module 7-3",
+      "project_coordinator": 1,
+      "project_scope": "Ut esse aliqua ullamco cupidatat ea commodo. Do proident aliquip officia elit aliqua id. Ea duis Lorem dolor consectetur est exercitation eu minim. In duis laboris adipisicing cillum ut ad culpa velit fugiat. Commodo id veniam adipisicing amet exercitation minim reprehenderit laboris sunt est enim. Reprehenderit pariatur labore aliquip laboris fugiat mollit enim pariatur et veniam consectetur. Pariatur veniam eu anim labore pariatur consequat incididunt sit adipisicing occaecat.\n\nEst non enim minim velit quis qui. Enim dolor id velit ullamco et mollit et. Officia nisi id magna nisi veniam. Veniam aliqua anim ea consequat dolore ullamco nisi deserunt exercitation. Quis amet labore consectetur in ut quis id eu. Nulla culpa excepteur aute reprehenderit. Tempor non ullamco sit enim adipisicing.\n\nDolore elit ex cupidatat sit laboris ipsum aliquip aliquip aute ut. Ut commodo dolor fugiat amet minim dolor duis nisi Lorem commodo amet cupidatat laborum tempor. Cupidatat anim consequat nisi aliquip proident quis ut dolor excepteur reprehenderit pariatur occaecat. Mollit commodo qui ex non id ipsum fugiat adipisicing cillum tempor eiusmod do eu. Ex in aliquip laborum tempor officia culpa ea aute. Exercitation exercitation velit veniam duis est nostrud dolore et.",
+      "students_per_project": 7,
+      "Timeline": "Ea velit consequat sit incididunt occaecat tempor cillum minim aute aliqua ut Lorem. Occaecat adipisicing proident irure aute commodo ea exercitation labore eiusmod ex adipisicing et consectetur sunt. Nisi ad duis aliquip dolor do.\n\nCommodo sint laborum elit occaecat elit laborum sunt et ullamco ea anim. Excepteur aliqua proident id labore laborum aute aliqua. Pariatur excepteur occaecat pariatur id laboris do ut fugiat. Eu qui ut qui dolore minim reprehenderit id. Ea anim tempor nostrud qui sit ad. Tempor commodo ad sunt incididunt labore est.\n\nExcepteur amet consequat deserunt sit aliqua in consectetur incididunt tempor tempor consectetur exercitation occaecat. Pariatur ipsum Lorem consectetur aliqua do eiusmod adipisicing velit elit quis enim aliquip. Incididunt enim et ad ipsum reprehenderit qui proident aute tempor velit sit consectetur voluptate fugiat. Qui consectetur deserunt esse sit culpa ex duis consectetur anim in aliqua. Reprehenderit officia nostrud laborum officia veniam ea incididunt irure consequat ipsum. Ipsum aute eu non velit aute enim aliquip dolor voluptate sunt consequat nisi. Nisi irure laboris elit ea Lorem mollit quis aliquip officia aute id cupidatat.",
+      "link": "http://ucl.ac.uk",
+      "skills": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10
+      ],
+      "resources": "Aliqua alet meu",
+      "other": "Cupidatat ad excepteur minim mollit aliqua ea. Incididunt dolor aliqua occaecat est ex cupidatat. Pariatur occaecat Lorem culpa irure voluptate do deserunt tempor adipisicing et quis. Ex irure ut culpa ex sint ullamco. Culpa eiusmod qui aliquip ut nostrud anim culpa deserunt ut. Ipsum mollit consequat nisi tempor nostrud quis incididunt culpa irure duis dolor occaecat nulla.\n\nDeserunt sunt eiusmod aliquip veniam cupidatat do velit. Fugiat anim pariatur amet et. Ad fugiat ea et cillum anim proident.\n\nExcepteur dolor ullamco anim eiusmod nisi dolore. Cillum cupidatat reprehenderit laboris eiusmod id non consequat. Excepteur nisi aliqua mollit ea. Elit reprehenderit amet sint veniam cillum sunt exercitation voluptate cupidatat velit incididunt eiusmod. Labore non ipsum voluptate elit anim fugiat nostrud dolore ullamco consequat adipisicing. Enim tempor laboris enim nisi elit nulla magna irure ad est cillum aliquip consequat.",
+      "agreements": "Sint excepteur nostrud ipsum ea et duis labore. Labore ut nulla occaecat sint aliqua sunt cupidatat pariatur excepteur incididunt elit. Velit culpa exercitation cupidatat consequat commodo qui exercitation qui. Consectetur id laboris sunt sunt reprehenderit reprehenderit officia quis eu deserunt ad veniam et deserunt. Duis dolor excepteur Lorem amet elit adipisicing magna quis fugiat excepteur aute irure quis. Consequat pariatur eiusmod magna sunt adipisicing proident amet eiusmod. Dolor amet voluptate sit velit nulla culpa non reprehenderit qui nisi mollit.\n\nSit Lorem sunt laboris pariatur labore do in nulla. Ad tempor tempor et esse id. Culpa elit minim labore voluptate enim consectetur voluptate ex enim enim occaecat. Irure esse duis do commodo ex commodo ea. Incididunt in laboris officia quis minim id tempor dolor nostrud fugiat adipisicing ipsum. Ad officia quis duis voluptate exercitation.\n\nQuis ex pariatur minim Lorem sunt. Pariatur ea labore qui aute proident occaecat proident ex officia pariatur cupidatat culpa. Deserunt ex minim id laboris.",
+      "exemplar_project_proposal": 6,
+      "course": 7
+    }
+  },
+  {
+    "pk": 4,
+    "model": "course_module.CourseModule",
+    "fields": {
+      "name": "Module 1-4",
+      "project_coordinator": 1,
+      "project_scope": "Anim occaecat incididunt sint in elit ea aute ut duis eiusmod cupidatat. Officia do laborum deserunt veniam officia tempor ut amet aute et esse excepteur incididunt sunt. Ut proident labore eu enim reprehenderit anim ad. Est quis anim occaecat anim dolore laboris ad non velit velit.\n\nSunt nulla ut qui do aute do sit irure veniam consequat anim exercitation. Sint dolor culpa irure velit dolor ad minim magna. Pariatur tempor veniam adipisicing sint qui proident sunt irure sint non in voluptate enim. Quis amet anim reprehenderit dolore ipsum. Esse excepteur aliquip nulla sint enim.\n\nOccaecat nostrud occaecat ea non. Dolor excepteur veniam eu proident esse voluptate est et elit. Nostrud irure ex irure Lorem nisi Lorem. Enim non velit aliqua quis aute dolor et ex enim nostrud excepteur id aliqua anim. Exercitation aute et velit in commodo consectetur aute ipsum do id velit. Do non cupidatat id dolor laborum aliquip in mollit incididunt esse eu sit elit nisi. Tempor irure cupidatat voluptate ad sit ex ipsum dolor duis ut aliqua.",
+      "students_per_project": 4,
+      "Timeline": "Eu nulla magna pariatur nisi eu aliquip incididunt Lorem nisi cillum. Id culpa ad deserunt quis dolor quis veniam. Occaecat aute nisi Lorem proident aliquip occaecat dolor. Minim est ullamco occaecat ex ipsum sint ex in.\n\nEnim sunt enim aliqua amet incididunt elit voluptate. Eu nostrud eiusmod magna nostrud nostrud non dolore proident ea sint excepteur officia. Dolor ea minim in velit cupidatat ut elit nisi laboris. Esse aliqua non elit non aliqua. Exercitation duis fugiat sint magna eiusmod aute et ipsum Lorem do voluptate fugiat ut cillum. Mollit ea aliquip aliqua aute nisi aute ut in amet ullamco quis reprehenderit. Cillum cillum sit fugiat irure laborum enim nostrud enim sunt sit ea in cupidatat.\n\nCulpa eiusmod ea proident quis. Fugiat sunt tempor consequat excepteur cupidatat voluptate consectetur. Quis reprehenderit sint incididunt labore nostrud id labore excepteur occaecat commodo nulla. Pariatur nostrud quis adipisicing sint incididunt. Incididunt magna enim qui aliqua aliquip exercitation enim elit culpa proident. Nulla consectetur Lorem duis non ad reprehenderit commodo laborum esse irure enim laboris mollit laborum.",
+      "link": "http://ucl.ac.uk",
+      "skills": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10
+      ],
+      "resources": "Aliqua alet meu",
+      "other": "Sit dolore do nulla esse et magna anim nostrud Lorem labore fugiat esse. Excepteur fugiat labore aliquip sit reprehenderit aliqua ut pariatur irure Lorem anim adipisicing. Occaecat consectetur occaecat ullamco cupidatat.\n\nConsequat commodo dolore sit aliqua culpa cupidatat. Laborum ea anim eiusmod non. Esse ea exercitation non nulla laboris do magna duis. Excepteur dolore commodo labore est adipisicing eiusmod nostrud ad laboris. In cillum elit aliquip consectetur ad eiusmod incididunt magna anim sint pariatur laboris velit. Adipisicing occaecat culpa qui sunt laborum sint est deserunt sit nostrud dolore. Laboris elit aliqua est dolor aliquip magna elit do non elit cupidatat sit.\n\nConsequat cillum voluptate aliquip tempor occaecat. Esse officia amet esse nostrud. Tempor deserunt labore reprehenderit ad et.",
+      "agreements": "Ipsum amet nisi officia ullamco occaecat consectetur ex tempor officia. Aliqua pariatur pariatur aute aliqua. Mollit ullamco reprehenderit laborum Lorem. Nisi reprehenderit exercitation quis dolor proident cupidatat esse cillum.\n\nConsectetur exercitation irure ipsum occaecat occaecat reprehenderit id. Sit sint veniam amet culpa pariatur officia sit minim ipsum dolor eu deserunt eiusmod cupidatat. Ad duis sint pariatur eiusmod sit enim consequat deserunt pariatur eiusmod nulla fugiat. Magna ipsum qui enim id laboris ea. Nostrud quis in non eiusmod ex veniam dolor esse laboris velit.\n\nIncididunt reprehenderit est sunt est laboris consectetur fugiat in Lorem sint consequat et irure consectetur. Proident consequat culpa magna nisi Lorem adipisicing elit ex. Voluptate in pariatur est Lorem velit consectetur aute irure aliqua et adipisicing.",
+      "exemplar_project_proposal": 10,
+      "course": 5
+    }
+  },
+  {
+    "pk": 5,
+    "model": "course_module.CourseModule",
+    "fields": {
+      "name": "Module 9-5",
+      "project_coordinator": 1,
+      "project_scope": "Dolore consequat proident deserunt exercitation occaecat eu laborum commodo irure tempor nisi duis. Id id qui do amet eu cupidatat sint mollit deserunt consequat laborum culpa deserunt do. Anim occaecat exercitation magna ipsum deserunt ipsum adipisicing aliqua irure. Eiusmod tempor nostrud incididunt reprehenderit nisi. Qui consequat id deserunt nulla occaecat veniam fugiat.\n\nProident enim irure adipisicing consectetur. Dolor irure ut pariatur dolore incididunt dolore mollit fugiat amet magna ex occaecat nulla adipisicing. Sint aliqua velit sint duis consequat non labore dolor excepteur commodo eu. Velit exercitation do minim minim Lorem.\n\nFugiat officia quis aliquip exercitation in pariatur Lorem occaecat cillum sunt elit qui. Dolore quis mollit Lorem magna magna adipisicing excepteur incididunt quis occaecat. Velit et magna tempor duis et. Officia incididunt laborum adipisicing ullamco laboris commodo. Sunt labore cupidatat elit occaecat dolore duis.",
+      "students_per_project": 6,
+      "Timeline": "Nisi commodo elit do do consequat. Reprehenderit sit minim ipsum non fugiat laboris. Magna quis irure quis eiusmod eu exercitation cillum ut pariatur. Lorem reprehenderit nostrud labore eiusmod quis anim pariatur velit mollit officia. Quis magna aute id officia est proident nostrud nisi exercitation ex proident esse id occaecat. Eiusmod sit minim aute minim Lorem ea qui id qui incididunt qui incididunt. Voluptate laborum non nulla Lorem aliqua nostrud adipisicing cupidatat ea.\n\nEt aliquip excepteur non non amet non ullamco sint incididunt quis aliqua minim quis. Ad labore anim enim ullamco consequat minim in et. Deserunt non mollit enim mollit et eiusmod aliquip labore labore sunt sunt quis. Culpa labore aute dolor enim aute ad anim aliqua culpa exercitation elit est. Nulla commodo labore in quis. Quis occaecat dolore est deserunt eu ea anim dolor veniam consectetur laborum.\n\nElit consequat do cupidatat aliquip magna non ullamco. Et labore eiusmod dolor est duis excepteur velit et culpa dolor ut commodo eu culpa. Officia occaecat enim exercitation Lorem veniam commodo cillum tempor dolor nostrud sit dolor. Ea ullamco non minim consequat elit tempor proident sint. Esse commodo tempor aliquip veniam do.",
+      "link": "http://ucl.ac.uk",
+      "skills": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10
+      ],
+      "resources": "Aliqua alet meu",
+      "other": "Aliqua amet eu adipisicing do eiusmod minim pariatur ex ut minim. Cupidatat amet irure do ut. Do nostrud duis commodo fugiat pariatur labore aliquip ad tempor incididunt elit non. Officia adipisicing dolore culpa incididunt laborum. Dolore eiusmod enim incididunt magna occaecat ipsum. Fugiat exercitation reprehenderit minim excepteur deserunt.\n\nAd veniam quis exercitation ipsum non Lorem velit esse quis minim id culpa ipsum aliqua. Duis amet anim commodo incididunt ex qui. Dolore velit officia adipisicing incididunt consequat tempor qui veniam. Anim sit aliquip ad eu enim fugiat Lorem deserunt. Duis labore ullamco proident proident ullamco culpa elit ad laboris. Qui do consequat ullamco in consectetur aliqua Lorem reprehenderit amet ut mollit quis.\n\nCillum aute cupidatat enim occaecat amet ea ullamco officia. Excepteur consectetur proident labore consectetur. Sint Lorem cupidatat consectetur sit laboris dolore commodo velit.",
+      "agreements": "Nulla cillum velit culpa mollit anim. Et anim voluptate cillum consectetur duis velit deserunt voluptate eu incididunt adipisicing officia. Minim elit esse consectetur ipsum culpa proident. Lorem minim consequat adipisicing proident cillum tempor deserunt id sunt deserunt sunt eu amet. Et velit ipsum amet nulla velit.\n\nElit anim occaecat nulla dolor. Cupidatat non voluptate nulla ad veniam. Est proident ea aliqua cupidatat irure et et excepteur est ut esse non. Laboris aute laborum nisi labore.\n\nEu culpa exercitation deserunt nostrud officia eu Lorem ea irure occaecat ut. Minim fugiat incididunt velit cillum dolor pariatur nulla sunt elit voluptate dolor non. Sunt exercitation commodo incididunt aliquip amet incididunt minim cupidatat duis. Dolor voluptate id officia esse eu excepteur reprehenderit Lorem occaecat deserunt irure. Sunt incididunt dolor ullamco anim sint pariatur pariatur officia duis irure proident occaecat.",
+      "exemplar_project_proposal": 3,
+      "course": 10
+    }
+  },
+  {
+    "pk": 6,
+    "model": "course_module.CourseModule",
+    "fields": {
+      "name": "Module 5-6",
+      "project_coordinator": 1,
+      "project_scope": "Magna do ipsum eiusmod velit nostrud aute adipisicing esse. Ex nisi pariatur ea id anim quis occaecat ipsum enim ea ex eiusmod. Magna consectetur sit magna qui reprehenderit magna. Commodo est in laboris ad id proident mollit sint laborum eiusmod laboris est.\n\nMinim eiusmod culpa aliqua fugiat aliquip do Lorem culpa tempor eu velit Lorem est non. Deserunt qui laboris nulla cupidatat minim enim. Sunt ullamco consectetur consequat voluptate duis amet mollit.\n\nLaborum adipisicing amet cupidatat fugiat laboris anim. Ea fugiat enim minim occaecat in commodo dolor nisi. Reprehenderit id labore adipisicing labore magna irure Lorem id sit pariatur quis ipsum mollit velit. Irure esse cupidatat dolore consectetur pariatur laborum mollit nulla labore in nulla commodo enim. Eiusmod minim ullamco velit est esse voluptate. Dolore in quis aliqua cupidatat exercitation minim ipsum sit consectetur elit ipsum.",
+      "students_per_project": 1,
+      "Timeline": "Elit mollit consectetur do proident exercitation ullamco non. Officia ex ex proident non ad eiusmod nostrud voluptate enim. Sunt reprehenderit in cupidatat nisi quis sit magna labore do. Laboris consectetur elit tempor incididunt ullamco sint Lorem ullamco.\n\nLaborum adipisicing ut elit voluptate minim aliquip aliquip ea mollit sit magna id. Commodo in et ad veniam mollit. Lorem elit voluptate ad cillum aliquip voluptate duis enim. Incididunt proident elit excepteur ipsum deserunt culpa dolore. Dolor laborum aute nisi id non laboris. Laborum aliquip magna tempor irure magna occaecat. Quis aute laboris laboris cupidatat elit aute labore ut.\n\nSit duis nisi laboris labore. Mollit consequat adipisicing id ut ad do. Proident in officia ea eiusmod exercitation mollit duis laborum ut ex cupidatat laborum reprehenderit laboris.",
+      "link": "http://ucl.ac.uk",
+      "skills": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10
+      ],
+      "resources": "Aliqua alet meu",
+      "other": "Ex pariatur ipsum ut et cillum enim tempor irure et consectetur. Nulla incididunt tempor et laborum tempor laboris duis qui cupidatat consectetur. Qui Lorem sunt tempor sint cupidatat. Mollit ut et voluptate proident nulla.\n\nConsectetur aute laboris fugiat ullamco anim eiusmod duis sit cupidatat sint elit cupidatat elit id. Laborum duis magna aliqua laboris mollit officia non duis pariatur proident duis. Nisi esse enim sint laboris aliquip incididunt id id dolor. Nostrud consequat voluptate officia ex fugiat labore amet. Labore exercitation do nostrud exercitation quis irure et. Commodo adipisicing labore pariatur ipsum voluptate eu aliquip mollit deserunt.\n\nCommodo aliqua eiusmod ea nisi mollit labore ipsum nisi eu laborum occaecat laborum occaecat reprehenderit. Sunt cillum velit Lorem occaecat reprehenderit qui esse veniam cupidatat dolore. Irure officia dolore id veniam irure labore ad Lorem cillum et officia laboris. Esse voluptate commodo qui incididunt consectetur nisi officia. Duis quis laborum ipsum duis minim cupidatat mollit dolore. Cillum in consequat nisi aliquip consequat sit.",
+      "agreements": "Officia dolore duis et labore excepteur consequat irure elit id duis irure anim do aute. In occaecat incididunt aliqua esse velit commodo aliqua est adipisicing ut sunt irure enim. Ex nostrud anim aute et laboris. Ullamco in velit elit laboris Lorem ex in anim voluptate ad deserunt culpa ex tempor. Consectetur qui quis enim consequat magna eiusmod duis eiusmod ullamco adipisicing ad.\n\nIpsum occaecat occaecat ullamco veniam nulla magna aliqua ipsum aliqua. Consectetur id Lorem cillum dolore sit pariatur cupidatat non eu id aliquip voluptate amet velit. Fugiat elit irure mollit aliquip culpa cupidatat esse. Pariatur consectetur aute eiusmod tempor non do excepteur dolor voluptate.\n\nCupidatat dolor exercitation sit velit duis duis. Ex amet adipisicing id aute irure. Ut commodo labore aliqua deserunt amet voluptate officia et quis id velit ad. Esse aliquip occaecat in deserunt dolore duis nostrud velit minim cupidatat tempor aute deserunt. Sit dolor eiusmod do voluptate aliqua occaecat id voluptate fugiat minim. Lorem consectetur proident ea id nostrud elit.",
+      "exemplar_project_proposal": 3,
+      "course": 10
+    }
+  },
+  {
+    "pk": 7,
+    "model": "course_module.CourseModule",
+    "fields": {
+      "name": "Module 1-7",
+      "project_coordinator": 1,
+      "project_scope": "Sunt exercitation laborum dolor adipisicing et exercitation ut dolore eu reprehenderit esse sint et irure. Excepteur deserunt velit sit consequat Lorem eu adipisicing ad elit magna. Qui et deserunt ad exercitation eiusmod laborum quis consequat in officia incididunt. Reprehenderit Lorem qui ipsum ullamco aute ipsum ad exercitation voluptate ipsum in minim fugiat.\n\nEa minim ut veniam fugiat adipisicing non exercitation nisi mollit dolore sunt sunt in. Deserunt aliqua nulla officia voluptate consequat officia. Dolore non nostrud aliquip exercitation exercitation ea deserunt labore. Et magna irure voluptate ipsum dolore laborum aliquip dolor mollit irure amet ea do. In eu mollit aliqua cupidatat mollit consectetur qui dolore et dolor elit quis labore. Fugiat est est sint id consequat qui officia excepteur esse occaecat cupidatat.\n\nEa velit reprehenderit cupidatat non reprehenderit aliqua fugiat labore exercitation non esse esse. Anim cupidatat sint laboris ut Lorem culpa incididunt. Incididunt incididunt laboris elit proident esse minim dolore dolor quis eiusmod labore culpa incididunt. Labore non proident aliquip excepteur nulla fugiat enim cillum dolor nisi nostrud sint.",
+      "students_per_project": 2,
+      "Timeline": "Dolor irure sint dolore deserunt sunt labore sit do. Eiusmod nostrud est ea minim ipsum nisi cupidatat proident ex. Sint enim do officia amet ex dolore enim. Voluptate consequat nulla consectetur ut tempor.\n\nNisi ullamco do id ut tempor in. Officia officia laborum velit sint amet ea quis ullamco. Deserunt laborum fugiat dolore nisi voluptate nulla est elit adipisicing nostrud consectetur sint. Elit nisi irure sint id officia pariatur in ex cillum tempor voluptate fugiat eu nulla. Sit irure occaecat sint cupidatat veniam irure laboris sunt ea enim anim. Quis ipsum nostrud aute duis reprehenderit dolor id velit non irure ipsum ea proident commodo. Amet exercitation aute ullamco aute ut excepteur.\n\nDeserunt proident ut ullamco deserunt qui ullamco laborum sunt voluptate reprehenderit duis aliquip dolore nulla. Amet sunt minim voluptate deserunt ipsum labore eiusmod velit nostrud elit. Nisi in elit labore quis elit ad. Tempor ex enim et pariatur eiusmod ut occaecat voluptate laboris mollit aute sit.",
+      "link": "http://ucl.ac.uk",
+      "skills": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10
+      ],
+      "resources": "Aliqua alet meu",
+      "other": "Nisi enim dolor nulla consequat elit duis non id sunt proident. Eiusmod cupidatat excepteur aute cupidatat cillum dolor cupidatat exercitation ut et aute. Aute occaecat occaecat cillum do adipisicing dolore ipsum sunt consectetur nulla incididunt deserunt commodo fugiat.\n\nQuis do cupidatat ut pariatur laboris sunt cillum deserunt in irure officia eiusmod laboris. Exercitation laboris enim cupidatat pariatur incididunt velit pariatur id excepteur reprehenderit aliqua id do enim. Dolore voluptate elit amet sit. Eiusmod consectetur amet do consequat aute dolor eu proident consequat do id nostrud exercitation elit.\n\nIpsum nostrud in ex est ipsum officia voluptate irure consequat nisi sunt. Excepteur do nisi enim quis. Ex sint enim in eu irure sunt enim est. Eu voluptate veniam in esse minim incididunt minim laboris ipsum cillum consequat voluptate excepteur ea. Sit id elit ipsum cupidatat anim sint duis non sint veniam eu pariatur do. In adipisicing eu amet nulla consequat. Anim amet esse adipisicing sint culpa.",
+      "agreements": "Laborum occaecat occaecat voluptate qui pariatur fugiat ea et eu incididunt incididunt amet. Quis sit amet veniam deserunt consequat Lorem est consectetur ipsum officia irure. Fugiat exercitation id dolor occaecat irure. Officia exercitation duis pariatur excepteur ut cillum laborum ea officia cillum.\n\nDeserunt proident duis sit occaecat ex minim exercitation tempor. Qui esse laboris fugiat dolor id duis duis aliquip qui. Enim laboris consectetur laboris labore incididunt enim exercitation.\n\nMinim nulla est et voluptate Lorem do duis ad. Officia sunt mollit et elit laboris ullamco consequat. Cillum dolore labore laborum occaecat irure labore.",
+      "exemplar_project_proposal": 4,
+      "course": 9
+    }
+  },
+  {
+    "pk": 8,
+    "model": "course_module.CourseModule",
+    "fields": {
+      "name": "Module 6-8",
+      "project_coordinator": 1,
+      "project_scope": "Tempor nulla nisi labore culpa nisi id ea laborum. Irure in ad cupidatat consequat enim consectetur cupidatat consectetur tempor amet ex. Consectetur esse eu velit dolor nulla ullamco nostrud cupidatat reprehenderit. Minim irure aute Lorem reprehenderit pariatur sint consequat laborum. Elit velit amet voluptate cillum voluptate cupidatat est eu nostrud. Esse sint minim ex incididunt elit laborum laboris labore.\n\nQui Lorem exercitation proident deserunt ullamco aliqua eu adipisicing veniam ut. Elit laboris pariatur irure velit eiusmod. Velit fugiat id fugiat velit consectetur qui nulla aliqua minim ut.\n\nEst mollit ipsum laborum Lorem id anim sit commodo commodo. Exercitation anim labore sint ipsum incididunt esse fugiat nostrud ipsum cupidatat anim aliquip. Tempor duis et sit quis et reprehenderit officia nulla. Fugiat elit eu occaecat consequat nulla officia culpa esse ad.",
+      "students_per_project": 3,
+      "Timeline": "Amet dolore consectetur aliqua duis anim pariatur aute voluptate dolore dolor cillum. Officia consectetur ad est cillum. Consectetur nulla enim reprehenderit exercitation tempor Lorem aliqua mollit aliquip sunt.\n\nCulpa elit reprehenderit labore fugiat id magna quis. Incididunt ad exercitation aliqua qui elit. Dolore minim ea do minim dolore commodo cillum eiusmod aute ipsum do nostrud. Enim sunt do nisi ipsum consequat. Dolor ipsum nisi qui culpa esse. Fugiat ipsum nostrud sit nostrud velit labore tempor. Fugiat do nulla ad mollit irure dolore ad aliquip et sit labore sit laboris.\n\nAliqua consequat est elit laboris. Ut voluptate amet Lorem qui tempor non ullamco commodo anim nulla esse labore. Non non esse dolore deserunt aute qui aliqua id sunt do commodo mollit nulla irure. Enim nulla voluptate tempor ad duis. Eu excepteur ea sunt officia labore Lorem adipisicing duis dolore.",
+      "link": "http://ucl.ac.uk",
+      "skills": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10
+      ],
+      "resources": "Aliqua alet meu",
+      "other": "Laborum irure laborum ad labore laboris. Nulla elit quis sint veniam eiusmod non nisi voluptate pariatur aliqua sunt ea proident et. Veniam cillum veniam nulla consectetur qui minim eu id aute excepteur. Est consectetur excepteur esse tempor nulla mollit.\n\nCupidatat esse adipisicing fugiat ullamco laborum tempor culpa labore fugiat tempor adipisicing minim duis magna. Qui excepteur magna ipsum deserunt magna. Consequat aliquip tempor ad eu incididunt. Ex consectetur fugiat in qui.\n\nEx consectetur culpa elit ad Lorem reprehenderit in enim. Mollit voluptate eu ex labore elit reprehenderit sunt aliqua esse minim cillum nisi. Non elit amet fugiat voluptate adipisicing magna laborum. Incididunt fugiat consequat occaecat occaecat. Minim id Lorem ut velit sunt eiusmod laboris minim voluptate magna. Ut ex incididunt nisi proident occaecat aliqua incididunt non enim ea. Eiusmod est est mollit pariatur minim veniam.",
+      "agreements": "Anim Lorem nisi anim deserunt Lorem cillum laboris consectetur qui veniam ut aliquip aute dolor. Ullamco tempor amet ea magna laboris tempor est. Aliqua laborum esse ipsum aliquip nostrud veniam. Amet tempor magna dolore culpa minim pariatur voluptate consequat incididunt ullamco eiusmod est. Sunt reprehenderit eu eiusmod qui ipsum ad est elit. Est ut pariatur ex pariatur occaecat qui amet ipsum ullamco do tempor. Est fugiat eu labore eu.\n\nEsse in nisi culpa ad reprehenderit. Lorem veniam nulla quis ipsum irure. Irure proident ad commodo eu quis. Eiusmod officia minim elit anim minim nisi reprehenderit mollit excepteur.\n\nDeserunt consequat est aute deserunt elit elit esse laborum esse labore deserunt consequat commodo eiusmod. Sit minim non amet ad ad ea do do velit aute. Quis esse aute id eu veniam cillum laboris quis eu in elit in minim. Ipsum ipsum labore duis reprehenderit nostrud dolor aute labore ullamco Lorem. Elit exercitation laborum amet consequat consectetur. Nulla minim consequat laboris officia elit dolor tempor Lorem eiusmod. Veniam sunt esse pariatur officia mollit proident officia commodo ipsum ullamco dolore commodo culpa dolore.",
+      "exemplar_project_proposal": 1,
+      "course": 4
+    }
+  },
+  {
+    "pk": 9,
+    "model": "course_module.CourseModule",
+    "fields": {
+      "name": "Module 6-9",
+      "project_coordinator": 1,
+      "project_scope": "Commodo elit exercitation minim labore laborum. Sint quis dolor id sunt incididunt commodo voluptate ex sunt proident tempor. Proident voluptate non nostrud in sunt dolor veniam proident do. Veniam eiusmod anim eu do tempor officia do.\n\nMagna ad laboris cupidatat do eu reprehenderit labore sint labore consectetur culpa officia ex consequat. Commodo tempor mollit do quis laboris officia ad id dolor amet laboris velit consectetur occaecat. Enim culpa irure sunt nisi tempor aute sint id occaecat deserunt sint ex magna ea. Ex quis Lorem exercitation deserunt ipsum incididunt occaecat officia irure labore mollit incididunt laboris consectetur. Enim nulla deserunt ullamco labore aliquip ad veniam non. Veniam occaecat anim reprehenderit duis commodo.\n\nCupidatat consequat ea laboris proident esse. Mollit sunt magna cillum Lorem commodo esse ad laborum et. Ut non et proident sunt laborum sit laborum est anim exercitation esse mollit adipisicing.",
+      "students_per_project": 8,
+      "Timeline": "Fugiat veniam aute incididunt dolore in cupidatat ea eiusmod. Est nisi nostrud excepteur dolor. Consectetur officia in mollit culpa. Sint nisi irure aliqua nulla pariatur amet. Eiusmod laboris proident qui cillum aliquip.\n\nQuis cupidatat nisi nostrud non deserunt ut ipsum proident excepteur. Velit sint est dolor sint culpa aliqua sint in occaecat. Est reprehenderit non proident sunt Lorem laboris aliqua ullamco.\n\nId proident pariatur laboris magna nisi fugiat amet ullamco laborum reprehenderit minim. Aute et voluptate mollit nostrud exercitation. Proident labore cupidatat culpa tempor exercitation fugiat dolor magna. Lorem anim id mollit proident ullamco consectetur exercitation duis nostrud qui nostrud. Consequat esse ea eiusmod velit nisi. Adipisicing sint ea nulla id elit sint.",
+      "link": "http://ucl.ac.uk",
+      "skills": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10
+      ],
+      "resources": "Aliqua alet meu",
+      "other": "Duis esse amet duis irure adipisicing eiusmod proident reprehenderit eu duis dolore. Nisi deserunt laboris amet veniam nisi duis. Ad pariatur Lorem veniam consectetur occaecat ipsum culpa laborum excepteur sunt fugiat. Non tempor esse proident dolor eiusmod mollit id minim officia amet ad occaecat magna. Cillum Lorem amet velit amet culpa nulla.\n\nIncididunt ea aliqua et incididunt et exercitation eiusmod proident magna commodo exercitation. Aliquip duis anim esse consectetur laboris amet minim qui ad laborum. Velit sit mollit nisi nulla voluptate et eu. Do cupidatat do veniam do sint officia do. Minim veniam occaecat occaecat excepteur.\n\nUt voluptate fugiat magna sint elit sint officia esse duis. Et occaecat consequat in quis Lorem laborum excepteur adipisicing qui. Commodo Lorem duis amet pariatur voluptate.",
+      "agreements": "Et occaecat nostrud enim sunt ut tempor ea id anim. Non velit excepteur culpa ut commodo. Labore aliqua incididunt ut eiusmod Lorem Lorem occaecat.\n\nSit anim irure exercitation laborum culpa adipisicing enim quis excepteur ea nulla esse in. Aute aliquip enim consequat mollit consectetur qui in dolor culpa cillum ad duis. Ut ut occaecat velit culpa et et. Velit id sit Lorem cupidatat consequat consequat eiusmod veniam.\n\nNulla ex ipsum excepteur Lorem. Cillum nisi culpa mollit nulla duis aliquip. Pariatur sunt ad commodo culpa nostrud commodo proident commodo enim sit dolore magna consectetur sint. Labore ut elit tempor Lorem reprehenderit nisi ut reprehenderit esse ea id commodo. Exercitation anim duis irure amet ipsum incididunt officia.",
+      "exemplar_project_proposal": 10,
+      "course": 2
+    }
+  },
+  {
+    "pk": 10,
+    "model": "course_module.CourseModule",
+    "fields": {
+      "name": "Module 5-10",
+      "project_coordinator": 1,
+      "project_scope": "Excepteur eu commodo amet adipisicing officia ad et id. Mollit sint proident sint proident duis dolor est. Qui laboris adipisicing et mollit quis pariatur esse consectetur velit dolore deserunt. Exercitation ad do consectetur Lorem ex quis exercitation est. Enim ex ullamco ex ullamco dolore ut nostrud ipsum culpa dolore fugiat velit. In culpa eu incididunt cupidatat dolore ipsum amet do voluptate incididunt ad aliqua cupidatat. Labore duis id nulla commodo pariatur nulla consectetur pariatur esse.\n\nEa anim velit veniam cillum consequat irure cupidatat veniam est. Aute pariatur ad ad sunt ipsum minim fugiat magna eiusmod nisi excepteur esse. Ipsum elit sint laboris occaecat exercitation pariatur cupidatat ad ex ut cillum. Adipisicing commodo ipsum laboris aute aliquip nulla in. Sit qui ipsum et sint cillum fugiat consequat non aliquip.\n\nCulpa dolore enim duis dolor reprehenderit consectetur reprehenderit mollit nulla id exercitation veniam ex. Adipisicing quis anim cillum est quis quis voluptate elit occaecat. Labore irure ipsum nisi laborum. Commodo occaecat do culpa Lorem.",
+      "students_per_project": 4,
+      "Timeline": "Amet ipsum ea duis ex nisi ipsum ad dolore veniam anim. Mollit qui laborum ea velit commodo tempor nostrud. Ipsum eiusmod do ipsum pariatur enim commodo sint fugiat voluptate Lorem reprehenderit sunt. Magna labore do ullamco ipsum velit. Anim reprehenderit velit dolor commodo laboris occaecat consectetur in aliquip enim amet ad duis consectetur. Occaecat labore qui sint anim veniam velit eiusmod. Do velit aute deserunt excepteur sit occaecat in.\n\nDuis cillum officia consectetur quis id esse. Amet sunt sit aliquip deserunt adipisicing labore mollit. Anim irure minim dolor pariatur aliquip labore amet commodo veniam mollit ea reprehenderit nulla aliqua. Tempor duis ut tempor occaecat reprehenderit officia qui magna voluptate labore et proident velit. Nisi aute aute occaecat ea et nostrud duis cupidatat cupidatat. Duis officia est ex sit dolore consectetur incididunt irure eiusmod voluptate mollit sint nisi.\n\nMinim non sint ad qui culpa. Consectetur eiusmod minim veniam do fugiat. Adipisicing esse sit elit officia culpa officia dolor officia aliquip elit ea consectetur. Aliquip excepteur id quis consequat est.",
+      "link": "http://ucl.ac.uk",
+      "skills": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10
+      ],
+      "resources": "Aliqua alet meu",
+      "other": "Excepteur veniam velit in amet laboris anim anim esse quis ullamco occaecat sunt Lorem. Consectetur Lorem elit ullamco laboris commodo consequat eiusmod duis labore exercitation ea elit nostrud quis. Sint incididunt aliqua nostrud cillum esse Lorem ad amet consectetur. Enim magna minim mollit do do et reprehenderit voluptate Lorem sunt cupidatat fugiat officia. Quis et do eu ex ullamco.\n\nIrure fugiat cillum sit culpa voluptate esse. Excepteur laborum commodo minim occaecat esse dolore nulla nostrud proident esse. Anim sint incididunt anim deserunt cillum consequat officia non elit aliqua nostrud sunt do qui.\n\nDeserunt incididunt duis aliqua pariatur culpa laborum laborum consectetur. Eiusmod sit cillum reprehenderit qui do quis laboris. Ad nostrud in nostrud proident ullamco.",
+      "agreements": "Ullamco aliquip amet sit in anim labore. Exercitation ut non esse deserunt culpa. Anim ea amet velit Lorem occaecat amet velit laboris ut id ad. Nulla laborum irure sint nulla non elit duis cillum Lorem enim minim quis minim do. Id velit dolor fugiat cillum non reprehenderit sit velit officia sunt. Reprehenderit dolor nostrud incididunt ullamco cillum dolore esse in.\n\nVeniam ipsum culpa laboris nisi ullamco. Irure cupidatat est elit et sit aliquip do eiusmod irure ea ad. Velit anim excepteur cupidatat voluptate ad fugiat proident magna nisi voluptate amet. Voluptate quis adipisicing magna culpa incididunt minim.\n\nLaborum dolor culpa excepteur sint sit ut magna quis esse mollit esse reprehenderit. Duis occaecat exercitation enim tempor ut magna excepteur. Voluptate dolor nostrud labore in ad aute cupidatat. Dolore non nulla esse in non commodo deserunt non magna nulla. Amet exercitation id consectetur mollit velit ea velit amet do excepteur adipisicing excepteur laborum.",
+      "exemplar_project_proposal": 8,
+      "course": 4
+    }
+  },
+  {
+    "pk": 11,
+    "model": "course_module.CourseModule",
+    "fields": {
+      "name": "Module 3-11",
+      "project_coordinator": 1,
+      "project_scope": "Nulla Lorem non esse id tempor ex proident pariatur laborum ea ipsum adipisicing. Irure excepteur non officia nisi dolore ex. Est irure nisi culpa fugiat ullamco consectetur aliquip minim nulla consequat mollit. Culpa fugiat dolore consequat exercitation in Lorem velit incididunt mollit aliqua quis non non nisi. Deserunt commodo sint in exercitation consequat amet mollit proident est anim.\n\nVeniam voluptate incididunt occaecat dolor minim enim cupidatat culpa ex in enim qui veniam. Ad nisi voluptate eiusmod nulla. Ut irure est reprehenderit eiusmod nulla Lorem esse minim magna labore aliquip laborum deserunt. Nisi nulla magna labore et non nisi dolore do. Qui nisi officia velit ea aliquip culpa labore Lorem ullamco commodo magna labore.\n\nUllamco irure labore do proident reprehenderit exercitation nostrud duis voluptate fugiat qui dolor. Sit id aliquip excepteur qui magna incididunt mollit amet sint consequat voluptate et exercitation mollit. Lorem non dolore excepteur ipsum eiusmod voluptate mollit eiusmod commodo cillum sit amet.",
+      "students_per_project": 6,
+      "Timeline": "Est velit irure ullamco duis officia tempor ut. Consequat consequat eiusmod labore duis dolor consectetur sunt incididunt laboris mollit. Eiusmod est anim irure in. Laboris nisi incididunt enim est adipisicing. Ad incididunt consequat esse ipsum. Tempor dolore dolor minim reprehenderit consequat est sunt incididunt nisi cupidatat proident proident.\n\nPariatur aliquip sunt adipisicing commodo fugiat sint nulla non. Quis Lorem est voluptate incididunt. Tempor incididunt exercitation anim dolore veniam esse mollit elit sint. Veniam cupidatat ea proident labore. Labore sint id sint Lorem. Minim commodo magna amet aute non. Occaecat anim nulla sit dolor voluptate qui tempor veniam qui magna duis.\n\nAdipisicing eiusmod cupidatat amet quis sunt cillum nisi magna nisi. Voluptate dolore nostrud fugiat ea reprehenderit aliquip minim amet et laboris Lorem mollit sunt. Qui est et tempor veniam. Nisi deserunt minim amet id sit tempor laborum officia irure laborum sint adipisicing esse. Quis ea proident officia id aliqua laborum cupidatat non dolore non cupidatat. Velit qui dolor sunt esse exercitation est.",
+      "link": "http://ucl.ac.uk",
+      "skills": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10
+      ],
+      "resources": "Aliqua alet meu",
+      "other": "Eu nisi dolor veniam voluptate irure dolore adipisicing. Sunt et voluptate pariatur magna culpa in amet irure amet quis. Laborum adipisicing consectetur do nisi esse tempor aliqua amet. Occaecat qui commodo amet pariatur laborum id irure tempor minim deserunt. Excepteur nisi deserunt id consectetur proident excepteur. Velit et ad ullamco aliqua.\n\nOccaecat nulla nisi voluptate pariatur. Mollit do ut dolor exercitation magna do ullamco nisi in irure eu qui. Irure amet consequat qui dolor irure proident velit laborum. Consectetur voluptate ullamco exercitation mollit qui in officia in ullamco eu tempor qui.\n\nNulla id commodo deserunt reprehenderit dolore officia nostrud mollit non proident. Cillum elit ad laboris ea cillum nostrud enim nostrud proident deserunt esse ea in ipsum. Reprehenderit occaecat anim fugiat laboris esse est magna tempor. Lorem nisi fugiat dolor consequat commodo commodo eiusmod velit minim id consequat ad quis laborum. Ad nisi est veniam mollit eu.",
+      "agreements": "Fugiat cillum non ex minim enim officia in. Ullamco id minim laborum proident occaecat commodo proident. Ullamco irure duis et cupidatat ea fugiat culpa tempor. Nostrud ipsum reprehenderit magna in non quis incididunt labore aute aliqua veniam nisi. Laboris nulla minim voluptate enim consectetur nostrud cupidatat occaecat ipsum magna reprehenderit labore. Labore aliquip dolor voluptate non ut nulla.\n\nConsectetur laborum magna ullamco sint sunt eiusmod. Do eu cillum consequat nulla eu elit veniam quis cillum sint veniam. Sit laborum id labore irure. Velit nisi ut incididunt eiusmod.\n\nDeserunt velit elit eu in enim occaecat. Cupidatat consectetur magna aliquip ex pariatur ex. Ea anim et excepteur ad eu proident veniam laboris id aliqua veniam.",
+      "exemplar_project_proposal": 8,
+      "course": 3
+    }
+  }
+]

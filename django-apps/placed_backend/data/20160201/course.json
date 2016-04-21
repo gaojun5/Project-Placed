@@ -1,0 +1,10 @@
+[
+  {
+        "pk": 1,
+        "model": "course.Course",
+        "fields": {
+            "name": "G400",
+            "website_link": "http://www.cs.ucl.ac.uk/degrees/bsc_computer_science/"
+        }
+  }
+]

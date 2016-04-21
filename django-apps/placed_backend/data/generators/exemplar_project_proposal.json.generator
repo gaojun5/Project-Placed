@@ -1,0 +1,12 @@
+[
+    {
+        'repeat:10': {
+            pk: '{{index(1)}}',
+            model: "exemplar_project_proposal.ExemplarProjectProposal",
+            fields: {
+                video: "http://youtube.com",
+                info: '{{ lorem(3, "paragraphs")}}'
+            }
+        }
+    }
+]
