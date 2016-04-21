@@ -1,7 +1,0 @@
-id,name,course_wide_list,project_proposal,project_assignment,projects_per_year,project_visibility,group_id,module_id
-1,Supervisors,1,1,0,8,1,2,4
-2,Teaching Assistants,1,1,0,20,1,2,4
-3,COMPGC02 Students,0,0,0,2,0,3,4
-4,Course Admin,0,1,1,50,1,2,4
-5,Project Coordinator,0,0,1,50,1,2,4
-6,Project Creators,0,0,0,8,1,4,4
